@@ -1,1 +1,3 @@
 terraform plan -out main.tfplan
+
+tfvar reemplaza usar variable durante el apply
