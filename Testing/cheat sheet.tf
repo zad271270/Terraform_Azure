@@ -60,6 +60,6 @@ module "" {
 # vos podes crear tus propios modulos y reutilizarlos cuantas veces quieras
 #si vos creas el module tener que meter todas los files en un folder llamado ./terraform
 # por ej si llamas a la folder networking el modulo se va a llamar igual
-
+#module es como una funcion.....
 
 
